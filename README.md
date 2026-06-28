@@ -1,5 +1,5 @@
  Hi there 👋
-An aspiring Full-Stack Developer
+An aspiring AI Engineer
 
 - 🌱 I’m currently learning backend development
   
