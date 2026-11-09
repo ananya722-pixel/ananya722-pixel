@@ -77,6 +77,8 @@ The classic Snake–Water–Gun game, where the player competes against the comp
 ---
 
 ## 📜 Certifications
+-**Deloitte Technology Job Simulation — Forage**:
+Completed a practical technology job simulation involving coding and development tasks.
 
 - **IBM SkillsBuild**: Getting Started with Generative AI (Generative AI foundations, Introduction to LLMs, Ethical Considerations for GenAI)
 - **Mission Upskill India**: AI Impact Summit 2026 (Pre-Summit), HCL GUVI × MeitY × Digital India × INDIAai
