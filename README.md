@@ -48,6 +48,9 @@
 ---
 
 ## 🚀 Featured Projects
+### Brand-guard AI
+`python`  `generative-ai`  `gemini`  `streamlit` `artificial-intelligence`  `sqlite`
+AI-powered brand content compliance checker using Gemini, Streamlit and SQLite.
 
 ### 🏙️ Urban Eye AI
 `Python` `YOLOv8` `OpenCV` `FastAPI` `SQLite` `HTML` `CSS`
