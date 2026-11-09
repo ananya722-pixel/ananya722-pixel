@@ -95,19 +95,6 @@ Completed a practical technology job simulation involving coding and development
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananya722-pixel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya722-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ananya722-pixel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to collaborating on AI/ML projects, hackathons and learning opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ananya-gupta-1aa9653a1) or by [email](mailto:gananya722@gmail.com).
